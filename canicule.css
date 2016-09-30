@@ -1,0 +1,66 @@
+html{
+
+}
+
+body{
+	background: url(b6991ece1b.jpg) no-repeat center fixed; 
+  	-webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  	background-size: cover;
+}
+
+nav{
+}
+
+footer{
+	background-color: #FF7F00;
+}
+
+p{
+	margin-left: 60px;
+	margin-right: 60px;
+}
+
+.orange {
+	background-color: #FF7F00;
+	padding: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+	font-family: serif;
+}
+
+#entete {
+	margin: 7vw;
+}
+/*#entete h1 {
+  animation-name: entete;
+  animation-duration: 0.3s;
+  animation-delay: 1s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+@keyframes entete {
+  0%{
+    
+  }
+  50%{
+  	background-color: #FF7F00;
+  }
+  100%{
+    background-color: red;
+  }
+
+}*/
+#texte {
+	background-color: orange;
+	background: rgba(0,0,0,.2)
+}
+
+.soustitre {
+	margin-left: 35vw;
+	margin-right:35vw;
+	background-color: #ea923a;
+	filter: drop-shadow(5px 5px 5px #ea923a);
+	-webkit-filter: drop-shadow(5px 5px 5px #ea923a);
+	-ms-filter: drop-shadow(5px 5px 5px #ea923a);
+}
